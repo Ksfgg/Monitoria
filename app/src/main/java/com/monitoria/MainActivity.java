@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
                 if (login.equals("pedro")&&senha.equals("123")){
                     alert("Login realiazido com sucesso");
                 }else{
-                    alert("Login ou senha incorreta");
+                    alert("Login ou senha incorrea");
                 }
             }
         });
